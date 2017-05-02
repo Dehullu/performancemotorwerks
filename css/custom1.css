@@ -1,0 +1,88 @@
+body {
+  background-color: #000;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+nav.navbar {
+  background-color: #0057a2;
+  border: none;
+  color: #ece4e2;
+}
+
+nav.navbar a {
+  color: #ece4e2;
+}
+
+.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-nav>li>a {
+  color: #ece4e2;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+  background-color: rgba(0,0,0,.1);
+}
+
+li.active a {
+  background-color: #ece4e2;
+}
+
+h1.page-header {
+  color: #ece4e2;
+  border-bottom: 3px solid #394842;
+}
+
+p {
+  color: #7a8687;
+  font-family: 'Slabo 27px', serif;
+  font-size: 16px;
+}
+
+h2 {
+  color: #ece4e2;
+}
+
+ol.breadcrumb {
+  background-color: #394842;
+}
+
+button.btn {
+  background-color: #0057a2;
+  color: #ece4e2;
+}
+
+button.btn:hover {
+  background-color: #0057a2;
+  color: white;
+}
+
+.col-md-4 p, .col-md-4 h3 {
+  color: #ece4e2;
+}
+
+hr {
+  border: 3px solid #394842;
+}
+
+div.col-md-8 label, .col-md-8 h3 {
+  color: #ece4e2;
+}
+
+div.col-md-8 input {
+  background-color: #7a8687;
+}
+
+textarea#message {
+  background-color: #7a8687;
+}
+
+div.container .navbar-header  a.navbar-brand {
+  color: #ece4e2;
+}
+
+footer p{
+  color: #ece4e2;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding-top: 8px;
+}
