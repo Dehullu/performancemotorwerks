@@ -1,0 +1,104 @@
+body {
+  background-color: #ece2e4;
+  font-family: 'Raleway', sans-serif;
+}
+
+nav.navbar {
+  background-color: #0057a2;
+  border-bottom-color: #394842;
+  color: #394842;
+}
+
+nav.navbar a {
+  color: #394842;
+}
+
+.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-nav>li>a {
+  color: #ece2e4;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+  background-color: rgba(0,0,0,.1);
+}
+
+div.collapse ul.nav li.active a{
+  background-color: rgba(0,0,0,.2);
+}
+
+div.collapse ul.nav li.active a:hover{
+  background-color: rgba(0,0,0,.3);
+}
+
+li.active a {
+  background-color: #394842;
+}
+
+h1.page-header {
+  color: #394842;
+  border: none;
+}
+
+p {
+  font-family: 'Lusitana', serif;
+  font-size: 16px;
+}
+
+ol.breadcrumb {
+  background-color: #7a8687;
+}
+
+ol.breadcrumb li a {
+  color: #ece2e4;
+}
+
+ol.breadcrumb li a:hover {
+  text-decoration: none;
+  border-bottom: 1px solid #ece2e4;
+}
+
+ol.breadcrumb li.active {
+  color: white;
+}
+
+button.btn {
+  background-color: #0057a2;
+  color: #ece2e4;
+}
+
+button.btn:hover {
+  color: white;
+}
+
+.col-md-4 p, .col-md-4 h3 {
+  color: #394842;
+}
+
+div.col-md-8 label, .col-md-8 h3 {
+  color: #394842;
+}
+
+div.col-md-8 input {
+  background-color: white;
+  border: 1px solid #7a8687;
+}
+
+hr {
+  border: 3px solid #7a8687;
+}
+
+textarea#message {
+  background-color: white;
+  border: 1px solid #7a8687;
+}
+
+div.container .navbar-header  a.navbar-brand {
+  color: #ece2e4;
+}
+
+footer {
+  color: #394842;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
